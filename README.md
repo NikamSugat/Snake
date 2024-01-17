@@ -1,5 +1,6 @@
+[ 
 # Snake Game
-[ ![MasterHead](https://giphy.com/gifs/pbsnature-l1gbaJ2DMZPN7U6tur) ]
+ ![MasterHead](https://giphy.com/gifs/pbsnature-l1gbaJ2DMZPN7U6tur) 
 ## How to Download
 
 To download the Snake game, you can use the following `git clone` command in your terminal or command prompt:
@@ -53,3 +54,4 @@ Feel free to reach out for any questions or feedback:
 - **LinkedIn:** [Sugat Nikam](https://www.linkedin.com/in/nikamsugat)
 
 Enjoy playing the Snake game! 🐍🎮
+]
